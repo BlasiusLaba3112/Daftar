@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Daftar Hadir Otomatis & Master Data",
+  "description": "Aplikasi cetak dan manajemen daftar hadir otomatis bulanan pegawai instansi/Puskesmas dengan master data pegawai dan kop surat resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
